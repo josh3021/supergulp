@@ -1,0 +1,20 @@
+{
+  "name": "supergulp",
+  "version": "1.0.0",
+  "description": "Learning Gulp by building an awesome development environment",
+  "main": "index.js",
+  "repository": "https://github.com/josh3021/supergulp",
+  "author": "josh3021 <joseonghwan3021@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/register": "^7.5.5"
+  },
+  "dependencies": {}
+}
